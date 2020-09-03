@@ -1,0 +1,42 @@
+<?xml version"1.0" encoding="UTF-8" ?>
+<widget xmlns  = "http:www.w3.org/nswidgets"
+    xmlns:gap  = "http://phonegap.com/ns/1.0"
+    id         = "https://scratch.mit.edu/projects/370297666/"
+   versionCode = "10"
+   version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Super Mario Bros. demo v1</name>
+
+  <description>
+     It's finally here... Super Mario bros.demo on Scratch
+It has got 3 brand new levels! And more are coming soon. 1 2 3 4 5 6 7 8 9 are some fun codes press the number you want and then type in the name. codes below.
+ 
+up - Arrow to jump
+down - Arrow is crouch
+left and right - Arrow to move
+t - Taunt
+--------------------------------------------------------------------Shortcuts
+pause - w NOT RED YET
+start - s NOT RED YET
+--------------------------------------------------------------------
+Codes
+1.big
+2.star
+3.smol
+4. shadow
+5.sugar rush
+6.moon
+7.smm
+8.1up
+9.pix.
+  </description>
+
+ <author href="https://www.youtube.com/channel/UCJqJ3wrchW78Wt-4PX4tXVw" email="hacker250627@gmail.com">
+     JwtmntYT/hacker25YT
+ </author> 
+
+ <icon src="icon.png" />
+
+</widget>
